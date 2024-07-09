@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\bin\Debug\net8.0\Metot_Overloading.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\bin\Debug\net8.0\Metot_Overloading.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\bin\Debug\net8.0\Metot_Overloading.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\bin\Debug\net8.0\Metot_Overloading.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\bin\Debug\net8.0\Metot_Overloading.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\refint\Metot_Overloading.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\Metot_Overloading.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Metot_Overloading\obj\Debug\net8.0\ref\Metot_Overloading.dll
